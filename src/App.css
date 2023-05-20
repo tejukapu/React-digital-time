@@ -1,0 +1,16 @@
+.App { 
+  text-align: center;
+}
+.title {
+  display: inline-block;
+  border: 2px solid #a19b9b;
+  padding:5px;
+  border-radius: 4px;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+  color:#a19b9b;
+  font-size: 30px;
+  background-color: linear-gradient(120deg, #f6d365, #fda085);
+  box-shadow:0 10px 4px rgba(0, 0, 0, 0.1); 
+}
